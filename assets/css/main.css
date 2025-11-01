@@ -106,7 +106,7 @@ body {
 
 .newsletter-post .post-hero {
     width: 100%;
-    margin-bottom: 40px;
+    margin-bottom: 24px;
     border-radius: 12px;
     overflow: hidden;
     box-shadow: 0 4px 20px rgba(0,0,0,0.1);
@@ -119,14 +119,14 @@ body {
 }
 
 .newsletter-post .post-header {
-    margin-bottom: 40px;
+    margin-bottom: 24px;
     text-align: center;
 }
 
 .newsletter-post .post-title {
-    font-size: 3em;
+    font-size: 1.8em;
     color: #030C3C;
-    margin-bottom: 20px;
+    margin-bottom: 12px;
     line-height: 1.2;
     font-weight: 600;
 }
@@ -134,10 +134,10 @@ body {
 .newsletter-post .post-meta {
     display: flex;
     justify-content: center;
-    gap: 30px;
-    margin-bottom: 20px;
+    gap: 18px;
+    margin-bottom: 12px;
     color: #666;
-    font-size: 0.95em;
+    font-size: 0.57em;
 }
 
 .newsletter-post .post-meta i {
@@ -155,51 +155,51 @@ body {
 }
 
 .newsletter-post .post-excerpt {
-    font-size: 1.3em;
+    font-size: 0.78em;
     color: #555;
     font-style: italic;
-    margin-top: 20px;
-    padding: 0 60px;
+    margin-top: 12px;
+    padding: 0 36px;
 }
 
 /* POST CONTENT */
 .post-content {
-    font-size: 1.1em;
-    line-height: 1.8;
+    font-size: 0.66em;
+    line-height: 1.6;
     color: #333;
 }
 
 .post-content h2 {
     color: #030C3C;
-    font-size: 2.2em;
-    margin: 50px 0 25px 0;
+    font-size: 1.32em;
+    margin: 30px 0 15px 0;
     font-weight: 600;
 }
 
 .post-content h3 {
     color: #0F6ACE;
-    font-size: 1.7em;
-    margin: 40px 0 20px 0;
+    font-size: 1.02em;
+    margin: 24px 0 12px 0;
     font-weight: 600;
 }
 
 .post-content h4 {
     color: #047abe;
-    font-size: 1.3em;
-    margin: 30px 0 15px 0;
+    font-size: 0.78em;
+    margin: 18px 0 9px 0;
     font-weight: 600;
 }
 
 .post-content p {
-    margin-bottom: 20px;
+    margin-bottom: 12px;
 }
 
 .post-content ul, .post-content ol {
-    margin: 20px 0 20px 40px;
+    margin: 12px 0 12px 24px;
 }
 
 .post-content li {
-    margin-bottom: 10px;
+    margin-bottom: 6px;
 }
 
 .post-content a {
@@ -217,14 +217,14 @@ body {
     max-width: 100%;
     height: auto;
     border-radius: 8px;
-    margin: 30px 0;
+    margin: 18px 0;
     box-shadow: 0 4px 15px rgba(0,0,0,0.1);
 }
 
 .post-content blockquote {
     border-left: 4px solid #0F6ACE;
-    padding: 20px 30px;
-    margin: 30px 0;
+    padding: 12px 18px;
+    margin: 18px 0;
     background-color: #f0f5fb;
     font-style: italic;
     color: #555;
@@ -241,48 +241,48 @@ body {
 
 .post-content pre {
     background-color: #f0f5fb;
-    padding: 20px;
+    padding: 12px;
     border-radius: 8px;
     overflow-x: auto;
-    margin: 20px 0;
+    margin: 12px 0;
 }
 
 /* CALL TO ACTION */
 .post-cta {
-    margin: 60px 0;
-    padding: 50px;
+    margin: 36px 0;
+    padding: 30px;
     border-radius: 12px;
     text-align: center;
 }
 
 .post-cta h3 {
     color: #030C3C;
-    font-size: 2em;
-    margin-bottom: 15px;
+    font-size: 1.2em;
+    margin-bottom: 9px;
 }
 
 .post-cta p {
     color: #555;
-    font-size: 1.1em;
-    margin-bottom: 30px;
+    font-size: 0.66em;
+    margin-bottom: 18px;
 }
 
 .post-cta .subscribe-form input {
-    padding: 14px 20px;
+    padding: 8px 12px;
     border-radius: 25px;
     border: 2px solid #0F6ACE;
-    font-size: 1em;
-    width: 320px;
-    margin-right: 10px;
+    font-size: 0.6em;
+    width: 192px;
+    margin-right: 6px;
     font-family: 'Hind Vadodara', sans-serif;
 }
 
 .post-cta .subscribe-form button {
-    padding: 14px 35px;
+    padding: 8px 21px;
     border-radius: 25px;
     border: none;
     color: #fff;
-    font-size: 1em;
+    font-size: 0.6em;
     font-weight: 600;
     cursor: pointer;
     transition: all 0.3s ease;
@@ -299,8 +299,8 @@ body {
 .post-navigation {
     display: flex;
     justify-content: space-between;
-    margin: 50px 0;
-    padding: 30px 0;
+    margin: 30px 0;
+    padding: 18px 0;
     border-top: 2px solid #f0f5fb;
 }
 
