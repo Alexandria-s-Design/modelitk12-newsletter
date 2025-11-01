@@ -7,6 +7,7 @@ baseurl: "/modelitk12-newsletter"
 # Build settings
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
+future: true  # Publish future-dated posts immediately
 
 # Defaults
 defaults:
