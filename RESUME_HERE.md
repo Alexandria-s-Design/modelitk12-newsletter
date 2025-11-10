@@ -224,7 +224,7 @@ All ready to import into your existing n8n instance.
 
 ## 📞 Contact Points
 
-**Monday.com Workspace**: https://monday.com/boards/13222983
+**Monday.com Workspace**: https://alexandrias-design.monday.com/workspaces/13222983
 
 **GitHub Repo**: https://github.com/charlesmartinedd/modelitk12-newsletter
 
