@@ -1,0 +1,96 @@
+{
+  "generated_at": "2025-11-22T05:15:30.321Z",
+  "total_failed_weeks": 16,
+  "successful": 10,
+  "failed": 6,
+  "total_time_minutes": 4.6,
+  "total_cost": 0.39,
+  "results": [
+    {
+      "week": 1,
+      "title": "Welcome to ModelIt! K12: Where Systems Thinking Meets Science Education",
+      "error": "Expected double-quoted property name in JSON at position 6448 (line 19 column 3)",
+      "success": false
+    },
+    {
+      "week": 2,
+      "title": "Computational Modeling Transforms Science Learning: From Textbooks to Interactive Discovery",
+      "success": true
+    },
+    {
+      "week": 6,
+      "title": "NGSS Practice 2 in Action: Developing and Using Models in Your Classroom",
+      "error": "Expected double-quoted property name in JSON at position 7178 (line 19 column 3)",
+      "success": false
+    },
+    {
+      "week": 7,
+      "title": "Bacterial Chemotaxis: Students Discover How Cells Sense and Respond",
+      "error": "Expected ',' or '}' after property value in JSON at position 3647 (line 13 column 1239)",
+      "success": false
+    },
+    {
+      "week": 8,
+      "title": "Differentiation Made Easy: Meeting Every Student Where They Are",
+      "success": true
+    },
+    {
+      "week": 21,
+      "title": "Neuron Signaling: The Electrical Language of the Brain",
+      "success": true
+    },
+    {
+      "week": 22,
+      "title": "Inquiry-Based Learning: Letting Students Ask the Questions",
+      "error": "Expected ',' or '}' after property value in JSON at position 3475 (line 13 column 1338)",
+      "success": false
+    },
+    {
+      "week": 26,
+      "title": "Time Management Victory: Teaching Smarter, Not Harder",
+      "success": true
+    },
+    {
+      "week": 28,
+      "title": "Student Voice: Real Teachers Share Their ModelIt Transformations",
+      "error": "Expected ',' or '}' after property value in JSON at position 2606 (line 13 column 783)",
+      "success": false
+    },
+    {
+      "week": 30,
+      "title": "Collaborative Learning Amplified: Models as Team Projects",
+      "success": true
+    },
+    {
+      "week": 33,
+      "title": "Membrane Transport: Cellular Border Control",
+      "success": true
+    },
+    {
+      "week": 35,
+      "title": "Viral Infection: Hijacking the Cellular Machinery",
+      "success": true
+    },
+    {
+      "week": 36,
+      "title": "Professional Development That Actually Works: Modeling for Teachers",
+      "success": true
+    },
+    {
+      "week": 42,
+      "title": "The Science Behind the Success: Why Modeling Works",
+      "error": "Expected ',' or '}' after property value in JSON at position 4139 (line 15 column 891)",
+      "success": false
+    },
+    {
+      "week": 43,
+      "title": "Circadian Rhythms: The Biological Clock",
+      "success": true
+    },
+    {
+      "week": 49,
+      "title": "Apoptosis: Programmed Cell Death",
+      "success": true
+    }
+  ]
+}

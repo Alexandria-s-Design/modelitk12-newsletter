@@ -1,0 +1,394 @@
+{
+  "generated_at": "2025-11-22T05:06:53.677Z",
+  "total_weeks": 52,
+  "successful": 36,
+  "failed": 16,
+  "total_time_minutes": 16.5,
+  "total_cost": 1.4,
+  "results": [
+    {
+      "week": 1,
+      "title": "Welcome to ModelIt! K12: Where Systems Thinking Meets Science Education",
+      "error": "Expected ',' or '}' after property value in JSON at position 3089 (line 13 column 1276)",
+      "success": false
+    },
+    {
+      "week": 2,
+      "title": "Computational Modeling Transforms Science Learning: From Textbooks to Interactive Discovery",
+      "error": "Bad control character in string literal in JSON at position 5768 (line 18 column 258)",
+      "success": false
+    },
+    {
+      "week": 3,
+      "title": "340% Learning Improvement: The Research Behind Interactive Biological Modeling",
+      "category": "Research Highlights",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-03-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-03-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 4,
+      "title": "The Lac Operon: Middle Schoolers Master College-Level Gene Regulation",
+      "category": "Lesson Spotlights",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-04-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-04-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 5,
+      "title": "Zero Prep, Maximum Impact: Ready-to-Use Biological Models for Busy Teachers",
+      "category": "Classroom Tips",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-05-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-05-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 6,
+      "title": "NGSS Practice 2 in Action: Developing and Using Models in Your Classroom",
+      "error": "Expected ',' or '}' after property value in JSON at position 2690 (line 13 column 833)",
+      "success": false
+    },
+    {
+      "week": 7,
+      "title": "Bacterial Chemotaxis: Students Discover How Cells Sense and Respond",
+      "error": "Expected ',' or '}' after property value in JSON at position 2717 (line 13 column 892)",
+      "success": false
+    },
+    {
+      "week": 8,
+      "title": "Differentiation Made Easy: Meeting Every Student Where They Are",
+      "error": "Expected double-quoted property name in JSON at position 6827 (line 19 column 3)",
+      "success": false
+    },
+    {
+      "week": 9,
+      "title": "Cellular Respiration: Making the Invisible Visible Through Interactive Modeling",
+      "category": "Lesson Spotlights",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-09-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-09-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 10,
+      "title": "15 Years of Research Excellence: The Cell Collective Foundation",
+      "category": "Research Highlights",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-10-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-10-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 11,
+      "title": "Student Engagement Breakthrough: From Passive to Active Learners",
+      "category": "Student Success",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-11-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-11-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 12,
+      "title": "Photosynthesis: Students Build the Food-Making Machine",
+      "category": "Lesson Spotlights",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-12-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-12-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 13,
+      "title": "Assessment Revolution: How Modeling Reveals True Understanding",
+      "category": "Teaching Strategies",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-13-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-13-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 14,
+      "title": "Immune System Defense: Students Command Cellular Warriors",
+      "category": "Lesson Spotlights",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-14-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-14-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 15,
+      "title": "Teachers Pay Teachers Success: Classroom-Ready Resources at Your Fingertips",
+      "category": "Professional Development",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-15-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-15-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 16,
+      "title": "Cell Signaling Cascades: The Molecular Communication Network",
+      "category": "Lesson Spotlights",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-16-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-16-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 17,
+      "title": "88% Prediction Accuracy: Students Become Scientific Modelers",
+      "category": "Research Highlights",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-17-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-17-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 18,
+      "title": "Differentiation Toolkit: Scaffolds, Supports, and Extensions",
+      "category": "Teaching Strategies",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-18-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-18-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 19,
+      "title": "Cancer Biology: Understanding Uncontrolled Cell Growth",
+      "category": "Lesson Spotlights",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-19-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-19-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 20,
+      "title": "Community of Practice: Join 25,000+ Educators Worldwide",
+      "category": "Professional Development",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-20-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-20-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 21,
+      "title": "Neuron Signaling: The Electrical Language of the Brain",
+      "error": "Expected ',' or '}' after property value in JSON at position 2770 (line 13 column 894)",
+      "success": false
+    },
+    {
+      "week": 22,
+      "title": "Inquiry-Based Learning: Letting Students Ask the Questions",
+      "error": "Expected ',' or '}' after property value in JSON at position 6948 (line 34 column 2)",
+      "success": false
+    },
+    {
+      "week": 23,
+      "title": "Hormonal Regulation: The Body's Chemical Messengers",
+      "category": "Lesson Spotlights",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-23-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-23-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 24,
+      "title": "Three-Dimensional Learning: SEPs, DCIs, and CCCs United",
+      "category": "NGSS Alignment",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-24-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-24-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 25,
+      "title": "DNA Replication: Copying the Code of Life",
+      "category": "Lesson Spotlights",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-25-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-25-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 26,
+      "title": "Time Management Victory: Teaching Smarter, Not Harder",
+      "error": "Expected ',' or '}' after property value in JSON at position 4645 (line 17 column 181)",
+      "success": false
+    },
+    {
+      "week": 27,
+      "title": "Protein Synthesis: From Gene to Function",
+      "category": "Lesson Spotlights",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-27-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-27-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 28,
+      "title": "Student Voice: Real Teachers Share Their ModelIt Transformations",
+      "error": "Bad control character in string literal in JSON at position 2326 (line 13 column 485)",
+      "success": false
+    },
+    {
+      "week": 29,
+      "title": "Enzyme Kinetics: The Catalysts of Life",
+      "category": "Lesson Spotlights",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-29-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-29-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 30,
+      "title": "Collaborative Learning Amplified: Models as Team Projects",
+      "error": "Expected double-quoted property name in JSON at position 6572 (line 19 column 3)",
+      "success": false
+    },
+    {
+      "week": 31,
+      "title": "Metabolic Pathways: The Chemistry of Life Integration",
+      "category": "Lesson Spotlights",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-31-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-31-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 32,
+      "title": "Research to Classroom: How University Studies Become Teaching Tools",
+      "category": "Research Highlights",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-32-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-32-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 33,
+      "title": "Membrane Transport: Cellular Border Control",
+      "error": "Expected ',' or '}' after property value in JSON at position 2902 (line 13 column 1124)",
+      "success": false
+    },
+    {
+      "week": 34,
+      "title": "Mixed-Ability Classrooms: Success for All Learners",
+      "category": "Teaching Strategies",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-34-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-34-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 35,
+      "title": "Viral Infection: Hijacking the Cellular Machinery",
+      "error": "Expected ',' or '}' after property value in JSON at position 2944 (line 13 column 1255)",
+      "success": false
+    },
+    {
+      "week": 36,
+      "title": "Professional Development That Actually Works: Modeling for Teachers",
+      "error": "Expected ',' or '}' after property value in JSON at position 4146 (line 15 column 677)",
+      "success": false
+    },
+    {
+      "week": 37,
+      "title": "Ecological Interactions: Populations and Communities in Action",
+      "category": "Lesson Spotlights",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-37-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-37-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 38,
+      "title": "From Confusion to Confidence: How Modeling Clarifies Complex Concepts",
+      "category": "Student Success",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-38-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-38-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 39,
+      "title": "Genetic Mutations: Changes in the Code",
+      "category": "Lesson Spotlights",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-39-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-39-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 40,
+      "title": "Standards-Based Grading: Aligning Assessment with Modeling",
+      "category": "Teaching Strategies",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-40-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-40-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 41,
+      "title": "Blood Glucose Regulation: The Insulin-Glucagon Dance",
+      "category": "Lesson Spotlights",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-41-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-41-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 42,
+      "title": "The Science Behind the Success: Why Modeling Works",
+      "error": "Expected ',' or '}' after property value in JSON at position 3440 (line 13 column 1528)",
+      "success": false
+    },
+    {
+      "week": 43,
+      "title": "Circadian Rhythms: The Biological Clock",
+      "error": "Expected double-quoted property name in JSON at position 5898 (line 19 column 3)",
+      "success": false
+    },
+    {
+      "week": 44,
+      "title": "Parent Communication: Showcasing Student Work with Models",
+      "category": "Classroom Tips",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-44-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-44-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 45,
+      "title": "Antibiotic Resistance: Evolution in Real Time",
+      "category": "Lesson Spotlights",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-45-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-45-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 46,
+      "title": "Student Agency: Letting Learners Lead Their Discovery",
+      "category": "Teaching Strategies",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-46-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-46-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 47,
+      "title": "Alzheimer's Disease: Understanding Neurodegeneration",
+      "category": "Lesson Spotlights",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-47-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-47-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 48,
+      "title": "Year in Review: Celebrating 52 Weeks of Modeling Excellence",
+      "category": "Professional Development",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-48-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-48-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 49,
+      "title": "Apoptosis: Programmed Cell Death",
+      "error": "Expected ',' or '}' after property value in JSON at position 3288 (line 13 column 1234)",
+      "success": false
+    },
+    {
+      "week": 50,
+      "title": "Lesson Planning Simplified: From Idea to Implementation in Minutes",
+      "category": "Classroom Tips",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-50-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-50-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 51,
+      "title": "Climate Change Biology: How Organisms Adapt",
+      "category": "Lesson Spotlights",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-51-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-51-hero.jpg",
+      "success": true
+    },
+    {
+      "week": 52,
+      "title": "Building Your Modeling Community: Resources and Next Steps",
+      "category": "Professional Development",
+      "jsonPath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-52-content.json",
+      "imagePath": "C:\\Users\\MarieLexisDad\\scripts\\newsletter-output\\week-52-hero.jpg",
+      "success": true
+    }
+  ]
+}

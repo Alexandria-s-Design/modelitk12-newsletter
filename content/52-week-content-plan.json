@@ -1,0 +1,379 @@
+{
+  "total_weeks": 52,
+  "categories": {
+    "Platform Spotlight": "Deep dive into ModelIt features, tools, and capabilities",
+    "Teaching Strategies": "Pedagogical approaches, classroom management, differentiation",
+    "Research Highlights": "Studies, data, evidence-based outcomes",
+    "Lesson Spotlights": "Specific biological topics and models",
+    "NGSS Alignment": "Standards integration and implementation",
+    "Student Success": "Engagement stories, learning gains, testimonials",
+    "Professional Development": "Teacher growth, community, resources",
+    "Classroom Tips": "Practical advice, time-savers, workflow optimization"
+  },
+  "weeks": [
+    {
+      "week": 1,
+      "title": "Welcome to ModelIt! K12: Where Systems Thinking Meets Science Education",
+      "category": "Platform Spotlight",
+      "topic": "Introduction to ModelIt! K12 platform, interactive biological modeling for middle school, NGSS Practice 2 alignment, research-grade tools for students, transforming invisible biological processes into interactive simulations",
+      "image_prompt": "Diverse middle school students gathered around computers, engaged with colorful biological simulation on screens, teacher guiding from side, modern bright classroom with interactive displays, students pointing excitedly at screen showing cellular processes"
+    },
+    {
+      "week": 2,
+      "title": "Computational Modeling Transforms Science Learning: From Textbooks to Interactive Discovery",
+      "category": "Teaching Strategies",
+      "topic": "How interactive simulations and computational modeling revolutionize biology education, students building and testing biological models, traditional textbooks vs hands-on modeling, NGSS Practice 2 (Developing and Using Models), real-time experimentation with variables, student-driven discovery",
+      "image_prompt": "Split-screen visualization: left side shows traditional textbook with static diagrams, right side shows student interacting with dynamic biological simulation on tablet, student manipulating molecular pathways, 3D cellular models responding in real-time, bright engaging colors vs muted textbook colors"
+    },
+    {
+      "week": 3,
+      "title": "340% Learning Improvement: The Research Behind Interactive Biological Modeling",
+      "category": "Research Highlights",
+      "topic": "Published CourseSource 2024 study on signal transduction discovery, 340% improvement in student learning outcomes, peer-reviewed evidence for computational modeling effectiveness, university research validation, comparative data traditional vs modeling instruction",
+      "image_prompt": "Scientific research visualization with upward trending graphs showing 340% improvement, diverse students working with biological models, research lab setting meets classroom, published journal imagery, data charts with biological illustrations"
+    },
+    {
+      "week": 4,
+      "title": "The Lac Operon: Middle Schoolers Master College-Level Gene Regulation",
+      "category": "Lesson Spotlights",
+      "topic": "Teaching advanced gene regulation concepts to middle school students, lac operon model exploration, prokaryotic gene expression, students achieving college-level understanding, interactive bacterial genetics simulation, transcription and translation regulation",
+      "image_prompt": "Middle school students confidently manipulating lac operon model on screen, DNA sequences and regulatory proteins visualized, bacterial cell illustration with gene switches, students working collaboratively pointing at molecular mechanisms, classroom with biological posters"
+    },
+    {
+      "week": 5,
+      "title": "Zero Prep, Maximum Impact: Ready-to-Use Biological Models for Busy Teachers",
+      "category": "Classroom Tips",
+      "topic": "Pre-built biological models ready for classroom use, no setup required, 1,000+ validated models library, instant implementation, time-saving for teachers, curriculum-aligned content, plug-and-play lessons, reducing teacher workload while increasing student engagement",
+      "image_prompt": "Organized digital library of biological models, teacher smiling at computer with ModelIt dashboard, clock showing time saved, colorful model thumbnails displayed in grid, clean efficient workspace, stress-free teaching environment"
+    },
+    {
+      "week": 6,
+      "title": "NGSS Practice 2 in Action: Developing and Using Models in Your Classroom",
+      "category": "NGSS Alignment",
+      "topic": "Next Generation Science Standards Practice 2 alignment, developing and using models, performance expectations integration, three-dimensional learning, science and engineering practices, student-centered modeling activities, standards-based instruction",
+      "image_prompt": "NGSS logo integrated with classroom scene, students developing scientific models on tablets, teacher facilitating model-based inquiry, visual representation of three-dimensional learning, biological models connected to real-world phenomena"
+    },
+    {
+      "week": 7,
+      "title": "Bacterial Chemotaxis: Students Discover How Cells Sense and Respond",
+      "category": "Lesson Spotlights",
+      "topic": "Bacterial movement and sensing, chemotaxis pathway exploration, signal transduction in prokaryotes, students manipulating environmental gradients, cellular response mechanisms, gradient sensing and flagellar movement, student-driven experimentation",
+      "image_prompt": "Animated bacterial cell with flagella, chemical gradient visualization with arrows, students observing bacteria responding to stimuli on screen, microscopic world brought to life, colorful molecular pathways, interactive cellular behavior simulation"
+    },
+    {
+      "week": 8,
+      "title": "Differentiation Made Easy: Meeting Every Student Where They Are",
+      "category": "Teaching Strategies",
+      "topic": "Differentiated instruction with computational models, scaffolding complexity levels, supporting struggling learners, challenging advanced students, individualized learning paths, adaptive difficulty, inclusive classroom strategies, meeting diverse student needs",
+      "image_prompt": "Diverse group of students each working at their own pace, teacher supporting individual learners, varied complexity levels shown on screens, inclusive classroom with students of different abilities all engaged, supportive learning environment"
+    },
+    {
+      "week": 9,
+      "title": "Cellular Respiration: Making the Invisible Visible Through Interactive Modeling",
+      "category": "Lesson Spotlights",
+      "topic": "Cellular respiration pathway exploration, glycolysis, citric acid cycle, electron transport chain, ATP production visualization, mitochondrial processes, energy transformation in cells, students tracking glucose to ATP conversion, biochemical pathway interactions",
+      "image_prompt": "Glowing mitochondria illustration, ATP molecules being produced, students watching glucose molecule journey through cellular respiration, biochemical pathway with colorful molecular structures, energy flow visualization, excited middle schoolers discovering cellular energy"
+    },
+    {
+      "week": 10,
+      "title": "15 Years of Research Excellence: The Cell Collective Foundation",
+      "category": "Research Highlights",
+      "topic": "Cell Collective platform history, 15 years of peer-reviewed research, 50+ published studies, University of Nebraska Medical Center origins, $5M+ in research funding, 2,500+ academic citations, established credibility, research-to-classroom pipeline",
+      "image_prompt": "Timeline visualization showing 15 years of progress, university research lab transitioning to classroom, published journal covers, funding grants imagery, academic achievement badges, research excellence meets educational innovation"
+    },
+    {
+      "week": 11,
+      "title": "Student Engagement Breakthrough: From Passive to Active Learners",
+      "category": "Student Success",
+      "topic": "Transforming passive textbook reading into active discovery, student engagement metrics, hands-on learning outcomes, curiosity-driven investigation, student ownership of learning, motivation increase, classroom energy transformation, before-and-after engagement stories",
+      "image_prompt": "Before/after split showing bored students with textbooks vs excited students with interactive models, energy and enthusiasm visualization, lightbulb moments, students leaning forward engaged, transformation from passive to active learning"
+    },
+    {
+      "week": 12,
+      "title": "Photosynthesis: Students Build the Food-Making Machine",
+      "category": "Lesson Spotlights",
+      "topic": "Photosynthesis pathway modeling, light reactions and Calvin cycle, chloroplast structure and function, energy capture and conversion, glucose synthesis, students manipulating light intensity and CO2 levels, plant cellular processes, environmental factors experimentation",
+      "image_prompt": "Bright chloroplast illustration with light rays, students exploring photosynthesis on tablets, green plant cells producing glucose, sun energy being captured, colorful molecular dance of photosynthesis, middle schoolers as plant biologists"
+    },
+    {
+      "week": 13,
+      "title": "Assessment Revolution: How Modeling Reveals True Understanding",
+      "category": "Teaching Strategies",
+      "topic": "Formative assessment through modeling, evaluating conceptual understanding, moving beyond memorization, authentic assessment strategies, student thinking made visible, diagnostic insights, performance-based evaluation, understanding vs recalling",
+      "image_prompt": "Teacher observing student model manipulation to assess understanding, transparent thought bubbles showing student reasoning, assessment as learning not testing, conceptual understanding visualization, supportive evaluation environment"
+    },
+    {
+      "week": 14,
+      "title": "Immune System Defense: Students Command Cellular Warriors",
+      "category": "Lesson Spotlights",
+      "topic": "Immune system response modeling, innate and adaptive immunity, pathogen recognition, antibody production, T-cell and B-cell activation, inflammation response, students directing immune defenses, cellular and molecular immunology, fighting infections interactively",
+      "image_prompt": "Immune cells battling pathogens, students as commanders of immune army, colorful antibodies recognizing antigens, dynamic cellular warfare, middle schoolers controlling immune response, protective shield visualization around healthy cells"
+    },
+    {
+      "week": 15,
+      "title": "Teachers Pay Teachers Success: Classroom-Ready Resources at Your Fingertips",
+      "category": "Professional Development",
+      "topic": "ModelIt TpT store, ready-made lesson plans, downloadable resources, teacher-created materials, curriculum supplements, standards-aligned activities, community-contributed content, immediate classroom implementation, professional resource library",
+      "image_prompt": "Teachers Pay Teachers storefront for ModelIt, organized lesson plan resources, teacher downloading materials, shopping cart with biological model lessons, professional development resources, ready-to-use classroom materials display"
+    },
+    {
+      "week": 16,
+      "title": "Cell Signaling Cascades: The Molecular Communication Network",
+      "category": "Lesson Spotlights",
+      "topic": "Signal transduction pathways, cellular communication mechanisms, receptor activation, second messengers, phosphorylation cascades, MAPK pathway, students exploring how cells talk to each other, molecular switches and amplification, hormone signaling",
+      "image_prompt": "Network of molecular signals flowing through cell, receptor on cell surface receiving signal, cascade of molecular events, students tracing signal path from outside to inside cell, communication network visualization, molecular relay race"
+    },
+    {
+      "week": 17,
+      "title": "88% Prediction Accuracy: Students Become Scientific Modelers",
+      "category": "Research Highlights",
+      "topic": "2021 cellular respiration study results, students achieving 88% accuracy in predicting biological outcomes, scientific reasoning development, hypothesis testing skills, model-based prediction success, evidence-based learning, student scientists emerging",
+      "image_prompt": "Student confidently making predictions, accuracy chart showing 88%, successful hypothesis testing celebration, scientific method in action, student becoming young scientist, data validation and discovery moment"
+    },
+    {
+      "week": 18,
+      "title": "Differentiation Toolkit: Scaffolds, Supports, and Extensions",
+      "category": "Teaching Strategies",
+      "topic": "Practical differentiation strategies, scaffolding tools in ModelIt, guided inquiry supports, challenge extensions, vocabulary aids, visual supports, multiple entry points, flexible grouping, UDL principles application, every student succeeds framework",
+      "image_prompt": "Toolkit visualization with different support levels, teacher toolbox with scaffolding options, students accessing appropriate supports, flexible learning paths, differentiation success in diverse classroom, inclusive teaching tools"
+    },
+    {
+      "week": 19,
+      "title": "Cancer Biology: Understanding Uncontrolled Cell Growth",
+      "category": "Lesson Spotlights",
+      "topic": "Cell cycle regulation, checkpoint failures, oncogenes and tumor suppressors, p53 pathway, apoptosis dysregulation, students exploring what goes wrong in cancer, mutation impacts, cell division control, making complex oncology accessible to middle schoolers",
+      "image_prompt": "Normal cell cycle vs cancer cell cycle comparison, students examining checkpoint failures, p53 protein visualization, controlled vs uncontrolled growth, serious but accessible cancer biology education, empowering young learners with health knowledge"
+    },
+    {
+      "week": 20,
+      "title": "Community of Practice: Join 25,000+ Educators Worldwide",
+      "category": "Professional Development",
+      "topic": "Global ModelIt teacher community, 25,000+ users worldwide, sharing best practices, collaborative lesson development, peer support network, international connections, professional learning community, collective expertise, educator collaboration",
+      "image_prompt": "World map with educator connections, diverse teachers collaborating globally, community network visualization, shared resources flowing between educators, supportive professional network, international teacher community"
+    },
+    {
+      "week": 21,
+      "title": "Neuron Signaling: The Electrical Language of the Brain",
+      "category": "Lesson Spotlights",
+      "topic": "Action potential generation, neuron structure and function, membrane potential changes, synaptic transmission, neurotransmitter release, students exploring how neurons communicate, electrical and chemical signaling, brain cell conversations, making neuroscience accessible",
+      "image_prompt": "Neuron firing action potential with electrical spark, synaptic cleft with neurotransmitters, students observing brain cell communication, colorful neural network, middle schoolers as neuroscientists, exciting brain biology visualization"
+    },
+    {
+      "week": 22,
+      "title": "Inquiry-Based Learning: Letting Students Ask the Questions",
+      "category": "Teaching Strategies",
+      "topic": "Student-driven inquiry with models, question generation strategies, curiosity cultivation, investigative learning, students designing experiments, teacher as facilitator not lecturer, authentic scientific practice, wonder-based education, empowering student agency",
+      "image_prompt": "Students with question marks above heads brainstorming, teacher facilitating inquiry, student-led investigation, curiosity-driven classroom, wonder wall with student questions, empowered learners taking ownership"
+    },
+    {
+      "week": 23,
+      "title": "Hormonal Regulation: The Body's Chemical Messengers",
+      "category": "Lesson Spotlights",
+      "topic": "Endocrine system function, hormone signaling pathways, insulin and glucose regulation, feedback loops, homeostasis maintenance, students controlling hormone levels, diabetes model exploration, blood sugar regulation, systemic body coordination",
+      "image_prompt": "Endocrine glands releasing hormones, bloodstream carrying chemical messages, target cells responding, students adjusting hormone levels, feedback loop visualization, body coordination through chemical signals, homeostasis in action"
+    },
+    {
+      "week": 24,
+      "title": "Three-Dimensional Learning: SEPs, DCIs, and CCCs United",
+      "category": "NGSS Alignment",
+      "topic": "Science and Engineering Practices integration, Disciplinary Core Ideas application, Crosscutting Concepts connection, three-dimensional instruction, phenomena-based learning, NGSS framework implementation, coherent science education, authentic practice integration",
+      "image_prompt": "Three interlocking circles representing 3D learning dimensions, students experiencing integrated science instruction, SEPs-DCIs-CCCs visualization, cohesive learning framework, NGSS in practice, comprehensive science education"
+    },
+    {
+      "week": 25,
+      "title": "DNA Replication: Copying the Code of Life",
+      "category": "Lesson Spotlights",
+      "topic": "DNA replication mechanism, helicase unwinding, DNA polymerase function, leading and lagging strands, Okazaki fragments, students directing replication machinery, molecular copying fidelity, semi-conservative replication, genetic information preservation",
+      "image_prompt": "DNA double helix unzipping, replication machinery at work, students controlling DNA copying process, molecular precision visualization, genetic blueprint being duplicated, colorful nucleotides being added, life's information transfer"
+    },
+    {
+      "week": 26,
+      "title": "Time Management Victory: Teaching Smarter, Not Harder",
+      "category": "Classroom Tips",
+      "topic": "Efficient lesson planning with pre-built models, time-saving classroom workflows, streamlined instruction, work-life balance for teachers, reducing grading burden, automated assessment insights, professional sustainability, teacher wellness through efficiency",
+      "image_prompt": "Happy teacher with balanced clock, efficient workflow diagram, stress reduction visualization, work-life balance scales, time saved celebration, sustainable teaching practices, teacher thriving not just surviving"
+    },
+    {
+      "week": 27,
+      "title": "Protein Synthesis: From Gene to Function",
+      "category": "Lesson Spotlights",
+      "topic": "Transcription and translation processes, mRNA synthesis, ribosome function, tRNA and amino acids, genetic code interpretation, students building proteins from DNA, gene expression visualization, central dogma of molecular biology, information flow in cells",
+      "image_prompt": "DNA being transcribed to mRNA, ribosome assembling protein, tRNA delivering amino acids, students watching gene expression, colorful amino acid chain forming, molecular assembly line, genetic information becoming functional protein"
+    },
+    {
+      "week": 28,
+      "title": "Student Voice: Real Teachers Share Their ModelIt Transformations",
+      "category": "Student Success",
+      "topic": "Teacher testimonials and success stories, classroom transformation narratives, before-and-after experiences, student engagement improvements, learning outcomes data, authentic educator voices, community success stories, peer validation",
+      "image_prompt": "Real teachers sharing testimonials, quote bubbles with success stories, diverse educators celebrating transformations, authentic community voices, student engagement before/after comparisons, credible peer endorsements"
+    },
+    {
+      "week": 29,
+      "title": "Enzyme Kinetics: The Catalysts of Life",
+      "category": "Lesson Spotlights",
+      "topic": "Enzyme structure and function, active sites, substrate specificity, enzyme kinetics, factors affecting enzyme activity (temperature, pH, concentration), students manipulating reaction rates, biological catalysis, metabolism foundation, reaction speed control",
+      "image_prompt": "Enzyme with substrate fitting perfectly like puzzle pieces, reaction rate graphs, students adjusting conditions to see enzyme activity change, molecular lock-and-key mechanism, catalytic power visualization, biochemical reactions accelerating"
+    },
+    {
+      "week": 30,
+      "title": "Collaborative Learning Amplified: Models as Team Projects",
+      "category": "Teaching Strategies",
+      "topic": "Cooperative learning with biological models, group investigation strategies, peer teaching opportunities, collaborative problem-solving, team-based model exploration, social learning benefits, communication skills development, shared discovery experiences",
+      "image_prompt": "Students working in collaborative groups around shared screen, teamwork and discussion, peer teaching moments, shared discovery celebration, cooperative learning environment, diverse team collaborating effectively"
+    },
+    {
+      "week": 31,
+      "title": "Metabolic Pathways: The Chemistry of Life Integration",
+      "category": "Lesson Spotlights",
+      "topic": "Interconnected metabolic networks, catabolism and anabolism, energy flow through cells, students exploring pathway connections, biochemical integration, glucose metabolism connecting to other pathways, metabolic regulation, cellular chemistry coordination",
+      "image_prompt": "Interconnected metabolic pathway network, colorful molecules flowing through pathways, students seeing big picture of cellular chemistry, integrated biochemical maps, energy flow visualization, metabolic symphony coordination"
+    },
+    {
+      "week": 32,
+      "title": "Research to Classroom: How University Studies Become Teaching Tools",
+      "category": "Research Highlights",
+      "topic": "Research-to-practice pipeline, university research informing K12 education, evidence-based teaching tools, academic rigor for middle school, peer-reviewed validation, translational education, scholarly foundation for classroom resources",
+      "image_prompt": "University research lab transitioning to middle school classroom, research papers becoming teaching materials, academic rigor meeting accessibility, evidence-based education pipeline, scholarly work transformed for young learners"
+    },
+    {
+      "week": 33,
+      "title": "Membrane Transport: Cellular Border Control",
+      "category": "Lesson Spotlights",
+      "topic": "Active and passive transport, diffusion and osmosis, protein channels and pumps, membrane potential, students controlling what enters/exits cells, concentration gradients, sodium-potassium pump, cellular selectivity, transport protein function",
+      "image_prompt": "Cell membrane with selective gates, molecules crossing border, students directing traffic across membrane, active pumps working, concentration gradients visualized, cellular border control in action, selective permeability demonstration"
+    },
+    {
+      "week": 34,
+      "title": "Mixed-Ability Classrooms: Success for All Learners",
+      "category": "Teaching Strategies",
+      "topic": "Inclusive teaching strategies, supporting diverse learners, IEP accommodations with models, gifted student enrichment, special education integration, universal design for learning, accessibility features, ensuring no student left behind",
+      "image_prompt": "Diverse classroom with students of all abilities succeeding, inclusive learning environment, accessibility features highlighted, every student engaged at appropriate level, supportive differentiation, universal success visualization"
+    },
+    {
+      "week": 35,
+      "title": "Viral Infection: Hijacking the Cellular Machinery",
+      "category": "Lesson Spotlights",
+      "topic": "Viral life cycles, host cell hijacking, replication strategies, lytic and lysogenic cycles, students exploring how viruses work, immune evasion, antiviral responses, making virology accessible and timely, understanding infectious disease",
+      "image_prompt": "Virus entering cell and taking control, cellular hijacking visualization, students observing viral replication, host defense mechanisms, infection and immunity interplay, relevant timely virology education, empowering disease understanding"
+    },
+    {
+      "week": 36,
+      "title": "Professional Development That Actually Works: Modeling for Teachers",
+      "category": "Professional Development",
+      "topic": "Effective PD with ModelIt, teacher learning through doing, professional growth opportunities, pedagogical development, mastering modeling-based instruction, continuous improvement, career advancement, becoming modeling expert",
+      "image_prompt": "Teachers in professional development workshop using models themselves, adult learning and growth, pedagogical skill development, professional advancement pathway, teacher expertise building, continuous improvement culture"
+    },
+    {
+      "week": 37,
+      "title": "Ecological Interactions: Populations and Communities in Action",
+      "category": "Lesson Spotlights",
+      "topic": "Predator-prey dynamics, competition, symbiosis, population modeling, carrying capacity, students manipulating ecosystem variables, ecological relationships, community interactions, systems thinking in ecology, environmental science",
+      "image_prompt": "Ecosystem with predator-prey relationships, population graphs changing dynamically, students adjusting environmental factors, ecological web of interactions, balanced ecosystem visualization, systems thinking in nature"
+    },
+    {
+      "week": 38,
+      "title": "From Confusion to Confidence: How Modeling Clarifies Complex Concepts",
+      "category": "Student Success",
+      "topic": "Conceptual clarity through visualization, making abstract concrete, confusion resolution, aha moments with models, misconception correction, understanding breakthrough, visual learning power, complex made comprehensible",
+      "image_prompt": "Student journey from confused to confident, lightbulb moment visualization, before/after understanding comparison, clarity breakthrough, misconceptions dissolved, confident student explaining concept to peer"
+    },
+    {
+      "week": 39,
+      "title": "Genetic Mutations: Changes in the Code",
+      "category": "Lesson Spotlights",
+      "topic": "Types of mutations, point mutations, frameshift mutations, mutation impacts on protein function, students introducing mutations and observing effects, genetic variation, beneficial vs harmful mutations, evolution foundation, DNA change consequences",
+      "image_prompt": "DNA sequence with mutation highlighted, students changing genetic code and seeing protein effects, mutation types visualized, genetic variation exploration, DNA editing and consequences, evolutionary change foundation"
+    },
+    {
+      "week": 40,
+      "title": "Standards-Based Grading: Aligning Assessment with Modeling",
+      "category": "Teaching Strategies",
+      "topic": "Standards-based assessment with models, proficiency levels, mastery demonstration, growth tracking, formative feedback, learning progressions, competency-based evaluation, moving beyond points to understanding",
+      "image_prompt": "Standards-based rubric with proficiency levels, student growth tracking visualization, mastery progression, competency demonstration, meaningful assessment aligned with learning goals, understanding over grades"
+    },
+    {
+      "week": 41,
+      "title": "Blood Glucose Regulation: The Insulin-Glucagon Dance",
+      "category": "Lesson Spotlights",
+      "topic": "Glucose homeostasis, insulin and glucagon function, pancreatic regulation, feedback loops maintaining blood sugar, students managing glucose levels, diabetes understanding, homeostatic balance, metabolic regulation, health education",
+      "image_prompt": "Pancreas releasing insulin and glucagon, blood glucose graph with homeostatic balance, students controlling hormone release, feedback loop visualization, balanced glucose levels, metabolic health education"
+    },
+    {
+      "week": 42,
+      "title": "The Science Behind the Success: Why Modeling Works",
+      "category": "Research Highlights",
+      "topic": "Cognitive science of modeling, constructivist learning theory, active learning research, mental model formation, conceptual change mechanisms, educational psychology foundation, evidence for modeling effectiveness, learning science validation",
+      "image_prompt": "Brain forming mental models, cognitive connections strengthening, learning science visualization, neural pathways forming, understanding deepening, educational research validated, science of learning illustrated"
+    },
+    {
+      "week": 43,
+      "title": "Circadian Rhythms: The Biological Clock",
+      "category": "Lesson Spotlights",
+      "topic": "Biological timing mechanisms, circadian clock genes, sleep-wake cycles, molecular oscillators, students exploring 24-hour rhythms, environmental cues, jet lag and shift work effects, chronobiology, internal timekeeping",
+      "image_prompt": "24-hour clock integrated with biological processes, sleep-wake cycle visualization, students adjusting light/dark cycles, molecular clock mechanism, circadian gene oscillations, biological timing system"
+    },
+    {
+      "week": 44,
+      "title": "Parent Communication: Showcasing Student Work with Models",
+      "category": "Classroom Tips",
+      "topic": "Communicating modeling success to parents, showcasing student work, parent-teacher conferences with models, family engagement, explaining ModelIt to families, building home support, parent understanding, community building",
+      "image_prompt": "Teacher showing parents student work on models, parent-teacher conference with demonstration, family engagement, parents impressed by student learning, home-school connection, community support building"
+    },
+    {
+      "week": 45,
+      "title": "Antibiotic Resistance: Evolution in Real Time",
+      "category": "Lesson Spotlights",
+      "topic": "Bacterial adaptation, natural selection demonstration, resistance gene spread, students observing evolution, antibiotic pressure effects, public health education, evolutionary biology, real-world relevance, urgent health topic",
+      "image_prompt": "Bacteria developing resistance over time, natural selection in action, students watching evolution happen, resistance genes spreading, public health implications, evolutionary biology made visible, urgent relevant science"
+    },
+    {
+      "week": 46,
+      "title": "Student Agency: Letting Learners Lead Their Discovery",
+      "category": "Teaching Strategies",
+      "topic": "Student ownership of learning, self-directed inquiry, independent exploration, student choice in modeling, autonomous learning, confidence building, intrinsic motivation, empowering student scientists",
+      "image_prompt": "Students independently exploring models with confidence, self-directed learning, student choice and agency, autonomous investigation, empowered young scientists, intrinsic motivation visible, ownership of discovery"
+    },
+    {
+      "week": 47,
+      "title": "Alzheimer's Disease: Understanding Neurodegeneration",
+      "category": "Lesson Spotlights",
+      "topic": "Neurodegenerative disease mechanisms, amyloid plaques, tau tangles, neuronal dysfunction, students exploring brain disease, aging biology, memory loss mechanisms, relevant health education, compassionate science learning",
+      "image_prompt": "Brain cells with plaques and tangles, neurodegeneration process, students learning about brain health, compassionate disease education, molecular mechanisms of memory loss, health awareness building"
+    },
+    {
+      "week": 48,
+      "title": "Year in Review: Celebrating 52 Weeks of Modeling Excellence",
+      "category": "Professional Development",
+      "topic": "Reflecting on year of modeling, growth and achievements, teacher development journey, student success highlights, community building, continuous improvement, looking ahead to next year, celebrating progress",
+      "image_prompt": "Timeline of year's successes, celebration of achievements, teacher and student growth, community accomplishments, progress visualization, looking back with pride and forward with excitement"
+    },
+    {
+      "week": 49,
+      "title": "Apoptosis: Programmed Cell Death",
+      "category": "Lesson Spotlights",
+      "topic": "Controlled cell death process, apoptosis pathway, caspase cascade, cell suicide mechanisms, students triggering programmed death, development and homeostasis role, cancer connection, cellular quality control",
+      "image_prompt": "Cell undergoing apoptosis, controlled self-destruction, students activating death pathway, caspase cascade visualization, cellular quality control, programmed vs uncontrolled death comparison"
+    },
+    {
+      "week": 50,
+      "title": "Lesson Planning Simplified: From Idea to Implementation in Minutes",
+      "category": "Classroom Tips",
+      "topic": "Rapid lesson planning with models, curriculum integration shortcuts, standards alignment made easy, instant implementation, flexible planning, adaptive teaching, responsive instruction, planning efficiency",
+      "image_prompt": "Teacher quickly planning lesson with ModelIt resources, streamlined workflow, curriculum integration, instant implementation, efficient planning process, stress-free preparation, time-saving tools"
+    },
+    {
+      "week": 51,
+      "title": "Climate Change Biology: How Organisms Adapt",
+      "category": "Lesson Spotlights",
+      "topic": "Biological responses to climate change, adaptation mechanisms, thermal stress, students modeling climate impacts, ecosystem responses, physiological adaptation, environmental change, urgent environmental science",
+      "image_prompt": "Organisms responding to temperature changes, climate impacts visualization, students exploring adaptation, environmental stress responses, ecosystem changes, urgent climate biology education"
+    },
+    {
+      "week": 52,
+      "title": "Building Your Modeling Community: Resources and Next Steps",
+      "category": "Professional Development",
+      "topic": "Continuing modeling journey, community resources, ongoing support, professional networks, advanced features, expanding model library, continuous learning, staying connected, growth mindset",
+      "image_prompt": "Community of educators connecting, resource library expanding, ongoing support network, professional growth pathway, continuous learning journey, connected teacher community, future possibilities"
+    }
+  ]
+}
